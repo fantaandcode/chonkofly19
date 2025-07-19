@@ -11,6 +11,9 @@ As is, this is *only* hotswap. If there is enough desire, I'm willing to make a 
 - Non-aggressive columnar stagger with fanned 2 outer columns
 - 4 thumb key cluster with 2 upper thumb keys
 
+### Chonkofly V1 PCB
+<img width="1938" height="1085" alt="image" src="https://github.com/user-attachments/assets/c28eeca5-f6bc-429e-b860-4bd5e8459b26" />
+
 ## Differences and Why
 ### No encoders?
 This is deliberate as the 2 EVQWGD001 roller encoders that were on the original Chocofly. They are expensive ($20-25 per) and they are not being made anymore. I personally do not use an encoder, but would be open to adding a low-profile rotary encoder. Or an alternative that uses mouse encoders like the ones detailed in [roBa](https://github.com/kumamuk-git/roBa/blob/main/doc/v3/buildguide_v3.md) build guide.
@@ -27,3 +30,4 @@ Since this keyboard is not for my laptop, this does not have a battery and thus 
 - MX?
 - Board-soldered option?
 - Folding? Probably a different design at that rate
+- Upload firmware
